@@ -10,4 +10,3 @@
 - 💬 Ask me about  Spring and cloud native, reactive architectures
 - 📫 How to reach me:  I'm on Twitter (@iamsinghankit09). That's the best way. There's also e-mail, though keep in mind I tend to be even more async in my replies   there...
 - 😄 Pronouns: he/him/they
-- ⚡ Fun fact: Java is the best thing ever happend to me
