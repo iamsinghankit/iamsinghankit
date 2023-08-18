@@ -3,8 +3,8 @@
 
 🔭 I am working as a Backend Developer with Java and have developed many projects according to clients' needs.
 
-- 🔭 I’m currently working on Grpc
-- 🌱 I’m currently learning Apache Kafka
+- 🔭 I’m currently working on Java 21
+- 🌱 I’m currently learning Distributed Computing
 - 👯 I’m looking to collaborate on anything related to Java, Grpc, Kafka, Spring and Cloud and its adjacent communities
 - 🤔 I’m looking for help with continuous delivery, Spring , Java, English, etc.
 - 💬 Ask me about  Spring and cloud native, reactive architectures, Kafka, Grpc
