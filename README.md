@@ -1,7 +1,4 @@
-### Hi there 👋
-
 #!/usr/bin/java
-
 class SoftwareEngineer {
     String name;
     String role;
@@ -17,7 +14,8 @@ class SoftwareEngineer {
       System.out.println("Thanks for dropping by, hope you find some of my work interesting.");
     }
 }
-     
+
+### Hi there 👋
 
 🔭 I am working as a Backend Developer with Java.
 
