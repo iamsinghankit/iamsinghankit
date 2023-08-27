@@ -1,8 +1,8 @@
-#!/usr/bin/java
+#!/usr/bin/java --source 21 --enable-preview $1
 
     String name = "Ankit Singh";
     String role = "Software Engineer";
-    List<String> languageSpoken = List.of("en_US","hi_IN");;
+    List<String> languageSpoken = List.of("en_US","hi_IN");
     
     void main(){
         sayHi();
