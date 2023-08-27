@@ -1,20 +1,17 @@
 #!/usr/bin/java
 
-class SoftwareEngineer {
-    String name;
-    String role;
-    List<String> languageSpoken;
+    String name = "Ankit Singh";
+    String role = "Software Engineer";
+    List<String> languageSpoken = List.of("en_US","hi_IN");;
     
-    SoftwareEngineer() {
-      this.name = "Ankit Singh"
-      this.role = "Software Engineer"
-      this.languageSpoken = List.of("en_US","hi_IN");
+    void main(){
+        sayHi();
     }
 
     void sayHi() {
       System.out.println("Thanks for dropping by, hope you find some of my work interesting.");
     }
-}
+
 
 ### Hi there 👋
 
