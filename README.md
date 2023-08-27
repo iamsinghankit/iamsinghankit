@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #!/usr/bin/java
-# -*- coding: utf-8 -*-
 
 class SoftwareEngineer {
     String name;
